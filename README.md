@@ -9,11 +9,11 @@
 
 **REQUIREMENTS**
 -------------------------------------------------------------------------------------------
-+**PYTHON 3.10+**
-+**UNITY 6.3 LTS (RECOMMENDED)**
-+**OPENCV, MEDIAPIPE, NUMPY (pip install opencv mediapipe numpy)**
-+**C# SUPPORT FOR VSCODE**
-+**CAMERA/WEBCAM SUPPORT**
++ **PYTHON 3.10+**
++ **UNITY 6.3 LTS (RECOMMENDED)**
++ **OPENCV, MEDIAPIPE, NUMPY (pip install opencv mediapipe numpy)**
++ **C# SUPPORT FOR VSCODE**
++ **CAMERA/WEBCAM SUPPORT**
 
 **SETUP**
 --------------------------------------------------------------------------------------------
