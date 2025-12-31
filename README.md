@@ -25,8 +25,8 @@
 
 **ACTIVATION AND NAVIAGTION INSTRUCTIONS**
 ---------------------------------------------------------------------------------------------
-1. In **FaceMeshCode.py"", set up the video by passing "Videos/<video_name>.mp4" as the parameter inside cap = cv2.VideoCapture(), located on line 11 (to access webcam, just pass 0 as the parameter)
-2. Run FaceMeshCode.py. (Optional - uncomment audio() (located on lines 41 and 194) and its function definition. Inside function, pass in "Videos/<audio_name>.wav" to hear the corresponding audio, but do note that with winsound it does not correspond with pause and play)
+1. In **FaceMeshCode.py**, set up the video by passing "Videos/<video_name>.mp4" as the parameter inside **cap = cv2.VideoCapture()**, located on **line 11** (to access webcam, just pass 0 as the parameter)
+2. Run FaceMeshCode.py. (Optional - For sound, uncomment **audio()** (located on lines **41** and **194**) and its function definition. Inside function, pass in "Videos/<audio_name>.wav" to hear the corresponding audio, but do note that with **winsound** it does not correspond with pause and play)
 3. Launch Unity and access **SampleScene.unity** through the **Scenes** subfolder from Assets.
 4. Press play to access face mesh tracking scripts.
 
