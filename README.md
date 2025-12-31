@@ -34,7 +34,7 @@
 ----------------------------------------------------------------------------------------------
 + Original Face Landmark Tutorial - [Murtaza's Workshop] (Link to Tutorial: https://www.youtube.com/watch?v=V9bzew8A1tc&t=1079s)
 + Videos Downloaded From Instagram:
-+ + @jacobhahmlive(https://www.instagram.com/jacobhahmlive?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+  + @jacobhahmlive(https://www.instagram.com/jacobhahmlive?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
   + @jeslyn._.n(https://www.instagram.com/jeslyn._.n?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 + Assistance from Microsoft Copilot
 
